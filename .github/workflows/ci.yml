@@ -1,8 +1,7 @@
-name: CI
+name: CIlama
 
 on:
-  - push
-  - pull_request
+  workflow_dispatch:
 
 permissions: {}
 
